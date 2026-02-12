@@ -7,8 +7,13 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="212,152,0,0" VerticalAlignment="Top"/>
+        <Button Content="Поиск" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.505,0.553"/>
         <Image Margin="568,50,106,217" Source="/images/film2.jpg" Stretch="Fill"/>
+        <Image Margin="97,50,577,217" Source="/images/film1.jpg" Stretch="Fill"/>
+        <Image Margin="350,50,324,217" Source="/images/film3.jpg" Stretch="Fill"/>
+        <Image Margin="97,257,578,10" Source="/images/film4.jpg" Stretch="Fill"/>
+        <Image Margin="350,257,324,10" Source="/images/film5.jpg" Stretch="Fill"/>
+        <Image Margin="568,257,106,10" Source="/images/film6.jpg" Stretch="Fill"/>
 
     </Grid>
 </Window>
